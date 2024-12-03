@@ -19,7 +19,7 @@ A simple and lightweight auto-clicker written in Python. This program automates 
 Type 
 
 ```
-python3 app.py
+sudo python3 app.py
 ```
 
 And then insert the click interval from terminal.
